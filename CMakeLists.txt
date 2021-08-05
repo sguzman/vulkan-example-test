@@ -9,3 +9,5 @@ add_executable(vulkan_example_test
         src/main.cpp
         src/main.h
         )
+
+target_link_libraries(vulkan_example_test glfw vulkan)
