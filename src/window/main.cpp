@@ -2,7 +2,6 @@
 // Created by sguzman on 8/4/21.
 //
 
-#include "main.h"
 #define GLFW_INCLUDE_VULKAN
 #include <GLFW/glfw3.h>
 
